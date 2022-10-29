@@ -2,4 +2,4 @@
 
 #### Mais um projetinho me aventurando no Front-End
 
-[Clique para ver a pagina](thiago)
+[Clique para ver a pagina](https://tchio1991.github.io/Calculador-IMC/)
