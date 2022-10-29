@@ -99,7 +99,7 @@ const data = [
 
   // Função para verificar se os campos estão vazios
   function validar(){
-    if(document.getElementById("weight").value == ""  && document.getElementById("height").value == ""){
+    if(document.getElementById("weight").value == ""  || document.getElementById("height").value == ""){
     alert('Por favor, informe os valores');
     document.getElementById("weight").focus();
     return false
